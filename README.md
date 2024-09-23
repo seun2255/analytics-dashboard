@@ -14,7 +14,7 @@ React, Tailwind, GSAP
 
 ### Links
 
-- Live Site URL: [](Analytics Dashboard)
+- Live Site URL: [https://analytics-dashboard-eight-sigma.vercel.app/](Analytics Dashboard)
 
 ### Built with
 
