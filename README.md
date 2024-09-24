@@ -2,7 +2,7 @@
 
 ## About
 
-There's not much to say about this one. It is my entry for a hackathon where the challenge was to improve the UI as much as possible. I made it responsive across devices and added a dark mode theme. Also added a few features and some cool animations to increase the overall user experience!
+Simple analytics dashboard with a dark mode theme
 
 ## Technologies used
 
@@ -14,7 +14,7 @@ React, Tailwind, GSAP
 
 ### Links
 
-- Live Site URL: [https://analytics-dashboard-eight-sigma.vercel.app/](Analytics Dashboard)
+- Live Site URL: [Analytics Dashboard](https://analytics-dashboard-eight-sigma.vercel.app)
 
 ### Built with
 
